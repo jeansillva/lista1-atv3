@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class App {
     public static void main(String[] args) throws Exception {
         Scanner sc = new Scanner(System.in);
-        // Peça dois números
+        // Peça dois números:
         System.out.print("Entre com o primeiro número: ");
         double n1 = sc.nextDouble();
         System.out.print("Entre com o segundo número: ");
